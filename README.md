@@ -1,1 +1,3 @@
-Okay, I guess I'm trying to imitate Google's search page, and try to duplicate the results page if I'm up for something more difficult
+Okay, I guess I'm trying to imitate Google's search page, and try to duplicate the results page if I'm up for something more difficult. This took me around 3-4 hours to complete. 
+
+I wanted to make my duplicate at least very close to the original, which I think I achieved. The only things that I'm missing are the pop of the search bar when you hover over it, and the two icons in the search bar itself. This project helped a bit to improve organization and formatting, since it's impossible to make code look nice in Codepen.
